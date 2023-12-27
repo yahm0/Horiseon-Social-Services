@@ -95,3 +95,6 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 > **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
+
+![image](https://github.com/yahm0/Horiseon-Social-Services/assets/153567836/da64a6f9-42d5-4581-bc35-623ea456f2bc)
+
